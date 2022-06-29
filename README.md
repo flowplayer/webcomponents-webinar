@@ -1,4 +1,4 @@
-# webcomponents-webinary
+# webcomponents-webinar
 
 ## Run
 
